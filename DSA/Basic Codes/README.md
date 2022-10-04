@@ -7,3 +7,7 @@ Hi there, few basic school codes to get started with python. We will go deeper a
 3. SI - Calculate simple interest by taking principal, ROI and time period as input from the user.
 
 4. Write a function to print all divisors of a number.
+
+5. Print elements of an array - Given an array, print all the elements present in the array.
+
+6. Write a program to count the number of 1's in the binary representation of an integer.
