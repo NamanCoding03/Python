@@ -11,3 +11,9 @@ Hi there, few basic school codes to get started with python. We will go deeper a
 5. Print elements of an array - Given an array, print all the elements present in the array.
 
 6. Write a program to count the number of 1's in the binary representation of an integer.
+
+7. Write a program to find the total number of a primes number in a given interval. Given two integers, S and E, count all prime numbers between S and E.
+
+8. Sum of Array - Find the sum of array of size N.
+
+
