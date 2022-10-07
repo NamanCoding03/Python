@@ -16,4 +16,6 @@ Hi there, few basic school codes to get started with python. We will go deeper a
 
 8. Sum of Array - Find the sum of array of size N.
 
+9. First Index of an element - Take an array with n elements with possibly duplicate elements as input. The task is to find the index of the first occurrences of the element x in the array and if it is not present, return -1.
 
+10. Last index of an element - Find the last occurrence of the element x in the array and if it not present, return -1.
