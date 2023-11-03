@@ -1,0 +1,8 @@
+n = int(input())
+arr = list(map(int,input().split()))
+k = int(input())
+for i in range(0,k):
+    g = arr.pop(0)
+    arr.append(g)
+
+print(*arr)
