@@ -1,0 +1,28 @@
+#Check permutation. For a given string, check whether they are a permutation of each other or not.
+
+def isPermutation(string1, string2) :
+    
+    #Your code goes here
+    if len(string1) != len(string2):
+        return False
+    
+    a = sorted(string1)
+    str1 = " ".join(a)
+    b = sorted(string2)
+    str2 = " ".join(b)
+    
+    for i in range(0,len(string1)):
+        if str1[i] != str2[i]:
+            return False
+    return True
+    
+#main
+string1 = input()
+string2 = input()
+
+ans = isPermutation(string1, string2)
+
+if ans :
+    print('true')
+else :
+    print('false')
