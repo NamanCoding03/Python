@@ -1,0 +1,15 @@
+def reverseEachWord(string) :
+    
+    #Your code goes here.
+    x = string.split()
+    for i in x:
+        y = x[::-1]
+        z = " ".join(y)
+        return z[::-1]
+
+#main
+string = "Naman is awesome".strip()
+
+ans = reverseEachWord(string)
+
+print(ans)
