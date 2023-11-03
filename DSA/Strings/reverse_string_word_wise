@@ -1,0 +1,15 @@
+# Reverse String word wise. The last word should come at first place and last second at 2nd place and so on. Individual words remain as it is.
+
+def reverseStringWordWise(string):
+    
+    #Your code goes here
+    s = string.split()[::-1]
+    temp = []
+    for i in s:
+        temp.append(i)
+    return " ".join(temp)
+
+string = input()
+ans = reverseStringWordWise(string)
+print(ans)
+        
