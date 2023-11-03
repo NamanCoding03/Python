@@ -1,0 +1,16 @@
+#Count Words. For a given input string(s), find and return the total number of words present in it.
+
+from sys import stdin
+
+def countWords(string) :
+    cnt = 1
+    for i in range(0,len(string)):
+        if string[i] == " " or string[i] == '\n' or string[i] == '\t':
+            cnt += 1
+    return cnt
+
+#main
+string = stdin.readline().strip();
+count = countWords(string)
+
+print(count)
