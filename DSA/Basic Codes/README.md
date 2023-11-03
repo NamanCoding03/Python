@@ -1,4 +1,4 @@
-Hi there, few basic school codes to get started with python. We will go deeper as we progress. Stay tuned for daily updates. 
+Hi there, few basic school codes to get started with python. 
 
 1. Even_or_Odd - Check whether the input given by the user is even or odd.
 
