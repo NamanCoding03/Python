@@ -1,4 +1,4 @@
-Hello Guys, I will be uploading 2 coding problems over here on a daily basis. Read this file before moving to codes. It contains the problem statement
+Read this file before moving to codes. It contains the problem statement
 
 1. Hello World - Saying hello to the world ! Starting our coding journey in Github. WARNING: 'If you don't start your coding journey by saying Hello World, you are breaking the norms of programming'
 
